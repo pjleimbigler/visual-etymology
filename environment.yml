@@ -1,0 +1,11 @@
+name: visual-etymology
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - seaborn
+  - numpy
+  - jupyter
+  - pandas
+  - matplotlib
+prefix: /opt/miniconda3/envs/visual-etymology
